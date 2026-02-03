@@ -62,85 +62,85 @@ If you're into web dev too, feel free to connect — I love exchanging ideas and
           src="./src/icons/frontend/html.svg"
           alt="Html5" 
           title="Html5"
-          width="30" 
+          width="25" 
         />&nbsp;&nbsp;
         <img 
           src="./src/icons/frontend/css.svg"
           alt="Css3"
           title="Css3"  
-          width="30"
+          width="25"
         />&nbsp;&nbsp;
         <img 
           src="./src/icons/frontend/tailwind.svg"
           alt="Tailwindcss" 
           title="Tailwindcss" 
-          width="30"
+          width="25"
         />&nbsp;&nbsp;
         <img 
           src="./src/icons/frontend/js.svg"
           alt="JavaScript"
           title="JavaScript"  
-          width="30"
+          width="25"
         />&nbsp;&nbsp;
         <img 
           src="./src/icons/frontend/ts.svg"
           alt="TypeScript"
           title="TypeScript"  
-          width="30"
+          width="25"
         />&nbsp;&nbsp;
         <img 
           src="./src/icons/frontend/react.svg"
           alt="React.js"
           title="React.js"  
-          width="30"
+          width="25"
         />&nbsp;&nbsp;
         <img 
           src="./src/icons/frontend/redux.svg"
           alt="Redux"
           title="Redux"  
-          width="30"
+          width="25"
         />&nbsp;&nbsp;
         <img 
           src="./src/icons/frontend/react-hook-form.svg"
           alt="React-Hook-Form"
           title="React-Hook-Form"  
-          width="30"
+          width="25"
         />&nbsp;&nbsp;
         <img 
           src="./src/icons/frontend/zod.svg"
           alt="Zod"
           title="Zod"  
-          width="30"
+          width="25"
         />&nbsp;&nbsp;
         <img 
           src="./src/icons/frontend/react-query.svg"
           alt="React-Query"
           title="React-Query" 
-          width="30"
+          width="25"
         />&nbsp;&nbsp;
         <img 
           src="./src/icons/frontend/i18next.svg"
           alt="I18Next"
           title="I18Next"
-          width="30"
+          width="25"
         />&nbsp;&nbsp;
         <img 
           src="./src/icons/frontend/shadcn.svg"
           alt="Shadcn"
           title="Shadcn"
-          width="30"
+          width="25"
         />&nbsp;&nbsp;
         <img 
           src="./src/icons/frontend/nextJs.svg"
           alt="Next.js"
           title="Next.js"  
-          width="30"
+          width="25"
         />&nbsp;&nbsp;
         <img 
           src="./src/icons/tools/axios.svg"
           alt="Axios"
           title="Axios"
-          width="30"
+          width="25"
         />
       </td>
     </tr>
@@ -153,43 +153,43 @@ If you're into web dev too, feel free to connect — I love exchanging ideas and
           src="./src/icons/backend/node.svg"
           alt="Node.js"
           title="Node.js"
-          width="30"
+          width="25"
         />&nbsp;&nbsp;
         <img 
           src="./src/icons/backend/nest.svg"
           alt="NestJs"
           title="NestJs"
-          width="30"
+          width="25"
         />&nbsp;&nbsp;
         <img 
           src="./src/icons/backend/typeorm.svg"
           alt="TypeORM"
           title="TypeORM"
-          width="30"
+          width="25"
         />&nbsp;&nbsp;
         <img 
           src="./src/icons/backend/postgresql.svg"
           alt="Postgresql"
           title="Postgresql"
-          width="30"
+          width="25"
         />&nbsp;&nbsp;
         <img 
           src="./src/icons/backend/jwt.svg"
           alt="JWT"
           title="JWT"
-          width="30"
+          width="25"
         />&nbsp;&nbsp;
         <img 
           src="./src/icons/backend/swagger.svg"
           alt="Swagger"
           title="Swagger"
-          width="30"
+          width="25"
         />&nbsp;&nbsp;
         <img 
           src="./src/icons/backend/ejs.svg"
           alt="EJS"
           title="EJS"
-          width="30"
+          width="25"
         />
       </td>
     </tr>
@@ -202,37 +202,37 @@ If you're into web dev too, feel free to connect — I love exchanging ideas and
           src="./src/icons/tools/npm.svg"
           alt="NPM"
           title="NPM"
-          width="30"
+          width="25"
         />&nbsp;&nbsp;
         <img 
           src="./src/icons/tools/pnpm.svg"
           alt="PNPM"
           title="PNPM"
-          width="30"
+          width="25"
         />&nbsp;&nbsp;
         <img 
           src="./src/icons/tools/postman.svg"
           alt="Postman"
           title="Postman"
-          width="30"
+          width="25"
         />&nbsp;&nbsp;
         <img 
           src="./src/icons/tools/git.svg"
           alt="Git"
           title="Git"
-          width="30"
+          width="25"
         />&nbsp;&nbsp;
         <img 
           src="./src/icons/tools/github.svg"
           alt="GitHub"
           title="GitHub"
-          width="30"
+          width="25"
         />&nbsp;&nbsp;
         <img 
           src="./src/icons/tools/docker.svg"
           alt="Docker"
           title="Docker"
-          width="30"
+          width="25"
         />
       </td>
     </tr>
