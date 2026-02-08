@@ -40,7 +40,7 @@ If you're into web dev too, feel free to connect — I love exchanging ideas and
   </a>&nbsp;&nbsp;
 </p>
 
-<h3>🛠️Tech & Tools</h3>
+<h3>🛠️Tech & Tools:</h3>
 <table>
   <thead>
     <tr>
@@ -238,3 +238,9 @@ If you're into web dev too, feel free to connect — I love exchanging ideas and
     </tr>
   </tbody>
 </table>
+
+<h3>🪪 My GitHub Id:</h3>
+<img
+  src="https://gitfolio-alpha.vercel.app/api/og?username=alirezamoradi-me"
+  alt="GitHub Stats"
+/>
